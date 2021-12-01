@@ -1,9 +1,10 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-h2{
+.navbar-brand{
     font-weight: bold;
     font-style: italic;
+    font-size:34px;
 
 
 }
